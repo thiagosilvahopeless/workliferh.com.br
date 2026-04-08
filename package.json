@@ -1,8 +1,9 @@
 {
-  "name": "react-example",
+  "name": "worklife-rh-landing-page",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Landing page profissional para Worklife Recursos Humanos Ltda",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
